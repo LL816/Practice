@@ -1,4 +1,4 @@
-/**
+package cheryl.practice.iteration; /**
  * Created by Cheryl on 2016/10/18.
  * list all combinations of array elements: {1,2}-> 1,2,12,21
  */
